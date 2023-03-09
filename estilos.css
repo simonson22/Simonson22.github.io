@@ -1,0 +1,37 @@
+* { 
+    background-color: grey;
+    font-family: 'Roboto', sans-serif;
+    border: 15px solid black;
+    padding:15px ;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+.hide{
+    display: none ;
+};
+
+.hide{
+    display: block;
+}
+
+
+
+.ocultos{
+    display: none ;
+};
+
+.ocultos{
+    display: block;
+}
+
+
+.sol{
+    display: none ;
+};
+
+.sol{
+    display: block;
+}
